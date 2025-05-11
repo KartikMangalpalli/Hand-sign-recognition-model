@@ -1,0 +1,1 @@
+In this project we are trying to develop an user friendly UI for an AI model (User friendly model deployment in Web)to check whether the given input (a file / from webcam) is Human, Cat or Dog. Using Google Teachable Machine, HTML, JavaScript. Template is given. 
